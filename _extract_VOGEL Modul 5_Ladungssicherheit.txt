@@ -1,0 +1,887 @@
+*/180
+Titelmasterformat durch Klicken bearbeiten
+Textmasterformate durch Klicken bearbeiten
+Zweite Ebene
+Dritte Ebene
+Vierte Ebene
+Fünfte Ebene
+*
+*
+Textmasterformate durch Klicken bearbeiten
+Zweite Ebene
+Dritte Ebene
+Vierte Ebene
+Fünfte Ebene
+*130
+*
+5. Modul „Ladungssicherung“
+Foto: © SpanSet
+Inhaltsverzeichnis
+Einführung
+Verantwortlichkeiten
+Abmessungen, Nutzvolumen und Lastverteilung
+Physik
+Sicherungsarten
+Arten von Ladegütern
+Verwendung und Überprüfung von Haltevorrichtungen
+Weitere Einrichtungen und Hilfsmittel zur Ladungssicherung
+Inhaltsverzeichnis
+Be- und Entladen
+Aus der Kontrollpraxis
+Wissens-Check
+Praktische Grundregeln für eine sichere Ladung
+Vorwort
+Cartoon: © J. Thamer
+Alle Kraftfahrer haben zukünftig vor Ausübung des Berufs eine
+Grundqualifikation
+und bei Berufsausübung eine
+Weiterbildung
+nachzuweisen.
+Vorwort
+Was ist neu?
+35 Stunden
+Alle 5 Jahre
+In Zeiteinheiten von mindestens 7 Stunden
+Vorwort
+Wie ist der Aufbau der Weiterbildung?
+Cartoon: © J. Thamer
+Vor allem zur Verbesserung der
+Sicherheit im Straßenverkehr
+wirtschaftlichen Fahrweise
+Vorwort
+Wozu dient die Weiterbildung?
+Cartoon: © J. Thamer
+Sie sollen nach dem Modul „Ladungssicherung“:
+über Fähigkeiten zur Gewährleistung der Sicherheit der Ladung unter Anwendung der Sicherheitsvorschriften und durch richtige Benutzung des Kraftfahrzeugs verfügen (vgl. Anlage 1 der BKrFQV, Nr. 1.4).
+Vorwort
+Cartoon: © J. Thamer
+Ziel des Moduls
+Einführung
+Cartoon: J. Thamer
+1. Einführung
+Mangelnde Sicherung der Ladung und ihre Folgen
+Grund: Oft wird Ladungssicherung ungenügend oder gar nicht durchgeführt!
+Diese oder ähnliche Schlagzeilen findet man immer wieder in den Medien.
+1. Einführung
+Häufige Rechtfertigungen
+„Lächerlich! Versuchen Sie doch einmal, die Kiste auch nur einen Millimeter zu verschieben!“
+„Um dieses Teil zu verladen, mussten wir den stärksten Gabelstapler einsetzen. Nur mit so einem Gerät kommt das wieder herunter - und von selbst schon gar nicht.“
+„Die Ladung ist so schwer, die kann gar nicht verrutschen.“
+„Das wäre nicht passiert, wenn der Andere mich nicht zu einer Notbremsung gezwungen hätte.“
+1. Einführung
+8% Arbeitsunfälle im Straßenverkehr
+4% Wegeunfälle
+88% Unfälle bei Tätigkeiten rund um den Lkw
+88 %
+8 %
+4 %
+Quelle: BG Verkehr
+Unfälle bei Tätigkeiten rund um den Lkw
+Gefahrenausmaß im Bereich der Autobahnpolizei Köln
+(Betrachtungszeitraum 01.01.2005 bis 31.12.2008)
+1. Einführung
+Die Zahlen sprechen eine andere Sprache!
+Einsätze  der Autobahnpolizei Köln
+(Betrachtungszeitraum 01.01.2005 bis 31.12.2008)
+86 Einsätze durch von Lkw verursachte Unfälle
+275 Einsätze durch andere Unfälle wegen unzureichend gesicherter Ladung
+5544 Einsätze wegen verlorener Ladung auf der Fahrbahn
+Quelle: BG Verkehr
+2. Verantwortlichkeiten
+Foto:  © nicolasjoseschirado-Fotolia
+2. Verantwortlichkeiten
+Rechtliche Grundlagen
+Urteile des BGH, der OLG oder Amtsgerichte lassen deutlich erkennen, dass  die Ladungssicherung ernst zu nehmen ist.
+Um eine ordnungsgemäße Ladungssicherung durchzuführen, sind eine Reihe von Gesetzen, Vorschriften und Richtlinien zu beachten, z. B.
+2. Verantwortlichkeiten
+Rechtliche Grundlagen
+Die wichtigsten Gesetze und Rechtsverordnungen
+§ 22 StVO „Ladung“
+§ 23 StVO „Sonstige Pflichten des Fahrzeugführers“
+§ 31 StVZO „Verantwortung für den Betrieb der Fahrzeuge“
+Unfallverhütungsvorschriften (UVV)
+„Technische Regelwerke“
+2. Verantwortlichkeiten
+§ 22 StVO (1) „Ladung“
+Absatz 1
+Die Ladung einschließlich Geräte zur Ladungssicherung
+sowie Ladeeinrichtungen sind so zu verstauen und zu sichern,
+dass sie selbst bei einer Vollbremsung oder
+oder plötzlicher Ausweichbewegung nicht verrutschen,
+umfallen, hin- und herrollen, herabfallen oder
+vermeidbaren Lärm erzeugen können.
+Dabei sind die anerkannten Regeln der Technik zu beachten.
+Rechtliche Grundlagen
+2. Verantwortlichkeiten
+Erläuterung zu § 22 StVO
+Der § 22 legt eindeutig fest, dass die Ladung gesichert werden muss. Diese Sicherung kann auf verschiedene Arten erfolgen. Es muss garantiert sein, dass die Ladung den Einwirkungen des Straßenverkehrs standhält.
+Vollbremsung
+Ausweichmanöver
+Durchfahren einer schlechten Wegstrecke oder
+die Kombination aus diesen genannten Fahrsituationen
+Dazu gehören folgende Fahrsituationen
+Rechtliche Grundlagen
+2. Verantwortlichkeiten
+§ 23 StVO (1) „Sonstige Pflichten des Fahrzeugführers“
+Absatz 1
+Der Fahrzeugführer ist dafür verantwortlich,
+dass seine Sicht und das Gehör nicht durch die Besetzung,
+Tiere, die Ladung, Geräte oder den Zustand des Fahrzeugs
+beeinträchtigt werden. Er muss dafür sorgen, dass das Fahrzeug,
+der Zug, das Gespann sowie die Ladung und Besetzung
+vorschriftsmäßig sind und dass die Verkehrssicherheit des Fahrzeugs
+durch die Ladung oder die Besetzung nicht leidet […].
+Rechtliche Grundlagen
+2. Verantwortlichkeiten
+den verkehrssicheren Zustand seines Fahrzeugs zu kontrollieren,
+auch in Verbindung mit der sicheren Verstauung der Ladung.
+Stellt der Fahrzeugführer einen Mangel fest, darf er die Fahrt nicht antreten, wenn dieser die Verkehrssicherheit seines Fahrzeugs beeinträchtigt.
+Erläuterung zu § 23 StVO (1)
+Cartoon:  © J. Thamer
+Rechtliche Grundlagen
+Der § 23 verpflichtet den Fahrzeugführer:
+2. Verantwortlichkeiten
+Absatz 2
+Der Fahrzeugführer muss das Fahrzeug,
+den Zug oder das Gespann
+auf dem kürzesten Weg aus dem Verkehr ziehen,
+falls unterwegs auftretende Mängel,
+welche die Verkehrssicherheit wesentlich beeinträchtigen,
+nicht alsbald beseitigt werden.
+§ 23 StVO (2) „Sonstige Pflichten des Fahrzeugführers“
+Rechtliche Grundlagen
+2. Verantwortlichkeiten
+Erläuterung zu § 23 StVO (2)
+Der Fahrzeugführer muss
+„Kürzester Weg“ ist die nächste Möglichkeit, an der das Fahrzeug ohne Behinderung oder Gefährdung des Verkehrs abgestellt und gegebenenfalls instand gesetzt werden kann.
+entscheiden, ob und in welchem Umfang ein Mangel die Verkehrssicherheit beeinträchtigt.
+Zusatz
+Cartoon: © J. Thamer
+Rechtliche Grundlagen
+Ergibt sich durch verrutschte Ladung eine unzulässige Lastverteilung, die das Fahrverhalten des Lkw negativ beeinflusst, ist der verkehrssichere Zustand des Fahrzeugs nicht mehr gewährleistet.
+2. Verantwortlichkeiten
+§ 31 StVZO (2) „Verantwortung für den Betrieb der Fahrzeuge“
+Absatz 2
+Der Halter darf die Inbetriebnahme nicht anordnen oder zulassen,
+wenn ihm bekannt ist oder bekannt sein muss,
+dass der Fahrzeugführer nicht zur selbstständigen Leitung geeignet ist oder
+das Fahrzeug, der Zug, das Gespann, die Ladung oder
+die Besetzung nicht vorschriftsmäßig ist oder dass
+die Verkehrssicherheit des Fahrzeugs durch die Ladung oder
+die Besetzung leidet.
+Rechtliche Grundlagen
+2. Verantwortlichkeiten
+dass für den jeweiligen Transport ein geeignetes Fahrzeug zur Verfügung gestellt wird und
+selbst oder durch geeignetes Überwachungspersonal Kontrollen
+durchführen.
+Der Fahrzeughalter hat dafür Sorge zu tragen,
+Erläuterung zu § 31 StVZO (2)
+Cartoon:  © J. Thamer
+Rechtliche Grundlagen
+dass der Fahrer in der Lage ist, diesen Transport ordnungsgemäß durchzuführen.
+2. Verantwortlichkeiten
+Verantwortlich für einen reibungslosen und sicheren Transport ist nicht nur der Fahrer, auch der Verlader, der Absender und der Fahrzeughalter müssen ihre Pflichten erfüllen.
+Fazit
+Cartoon:  © J. Thamer
+Rechtliche Grundlagen
+Der Fahrzeugführer bleibt jedoch trotzdem für die Sicherung der Ladung verantwortlich! Dies gilt auch, wenn er nicht selbst beladen hat. Er muss sich bei vorgeladenem Fahrzeug davon überzeugen, dass der Verlader seiner Sicherungspflicht nachgekommen ist.
+2. Verantwortlichkeiten
+Unfallverhütungsvorschriften (UVV)
+Schließen eines sonst „rechtsfreien“ Raumes
+(UVV gelten auch auf einem Betriebsgelände)
+Ein Verstoß gegen diese Paragrafen kann mit einer Geldbuße bis zu 10.000 € geahndet werden.
+§ 37 „Be- und Entladen“ und § 44 „Fahr- und Arbeitsweise“
+Hintergründe
+Konkretisierung und somit auch Hilfestellung bei der Erfüllung der verkehrsrechtlichen Bestimmungen wie der StVO und der StVZO
+Zu den Regeln der Technik zählen in erster Linie folgende Normen:
+Beschleunigungen festlegen, die bei „normalen Fahrzuständen" auf die Ladung einwirken können.
+Zusätzlich geben die VDl-Richtlinien 2700 ff. weitere wichtige Praxis-Anweisungen, indem sie
+aufzeigen, welche Kräfte man Ladungsbewegungen entgegensetzen muss.
+2. Verantwortlichkeiten
+Technische Regelwerke
+Unsicherheiten hinsichtlich der neu veröffentlichten EN-Norm 12195-1
+Die bisherige EN 12195-1:2003, die wesentlich auf der VDI 2700 beruhte, zählt in Deutschland nach wie vor zu den „anerkannten Regeln der Technik“.
+Deshalb prüfen deutsche Kontrollbehörden auch weiterhin nach den Mindestanforderungen der VDI 2700.
+Die DIN-EN12195-1 ist bis heute keine europäisch harmonisierte Norm.
+Eine verbindliche Anwendung ist somit nicht gesetzlich vorgeschrieben.
+In allen Normen sind Mindestanforderungen als Umsetzungshilfen enthalten.
+Ein höheres Sicherheitsniveau ist jederzeit zulässig!
+2. Verantwortlichkeiten
+Technische Regelwerke
+2. Verantwortlichkeiten
+Eine nicht oder nicht ordnungsgemäß durchgeführte Ladungssicherung ist ein Verstoß gegen die §§ 22 und 23 StVO und somit eine Ordnungswidrigkeit.
+Ordnungswidrigkeiten werden mit Verwarnungs- oder Bußgeld geahndet.
+Bei einem Bußgeld ab 60 € erfolgt zusätzlich ein Eintrag im Verkehrszentralregister mit einem Punkt.
+Bußgelder
+Sanktionen
+Ein Bußgeldverfahren inklusive Punkten kann jeden treffen, der eigenverantwortlich mit der Beladung zu tun hat.
+2. Verantwortlichkeiten
+Außerdem die Umweltdelikte wie z.B. Freisetzung radioaktiver Stoffe.
+Sanktionen
+§ 315b StGB „Gefährlicher Eingriff in den Straßenverkehr"
+§ 222 StGB „Fahrlässige Tötung"
+§ 229 StGB „Fahrlässige Körperverletzung“
+Strafrechtliche Konsequenzen
+2. Verantwortlichkeiten
+Sanktionen
+Das StGB sieht Freiheitsstrafen bis zu zehn Jahren oder Geldstrafen vor.
+Bei Verurteilung nach StGB erfolgt ein Eintrag im Bundeszentralregister in Bonn als „Vorstrafe".
+Bei Tatvorsatz kommen zusätzlich weitere Paragraphen des Strafgesetzbuches in Betracht.
+Foto:  © Winfried Rothermel-imago
+2. Verantwortlichkeiten
+Absatz 1
+Wer vorsätzlich oder fahrlässig das Leben,
+den Körper, die Gesundheit, die Freiheit, das Eigentum oder
+ein sonstiges Recht eines anderen widerrechtlich verletzt,
+ist dem anderen zum Ersatz des daraus entstehenden Schadens verpflichtet.
+§ 823 BGB „Haftung aus unerlaubter Handlung“
+Sanktionen
+2. Verantwortlichkeiten
+Erläuterung zu § 823 BGB
+Der Geschädigte muss den Beweis antreten, dass ein Verschulden vorliegt.
+Eine Höchstgrenze in der Haftung gibt es nach dem § 823 grundsätzlich nicht.
+Ist der Schadenverursacher als Verrichtungsgehilfe seines Arbeitgebers tätig, geht die Haftung auf den Arbeitgeber über.
+Sanktionen
+Der Schaden muss widerrechtlich vorwerfbar entstanden sein. Außerdem setzt ein Schadenersatz ein schuldhaftes vorsätzliches oder fahrlässiges Handeln voraus.
+Foto:  © nicolasjoseschirado-Fotolia
+2. Verantwortlichkeiten
+Absatz 1
+Wer einen anderen zu einer Verrichtung bestellt,
+ist zum Ersatz des daraus entstehenden Schadens verpflichtet,
+den der andere in Ausführung der Verrichtung
+einem Dritten widerrechtlich zufügt.
+§ 831 BGB „Haftung für den Verrichtungsgehilfen“
+Sanktionen
+2. Verantwortlichkeiten
+wenn er nachweist, dass er die erforderliche Sorgfalt beachtet hat, oder
+Erläuterung zu § 831 BGB
+Von der Ersatzpflicht kann sich der Unternehmer nur befreien,
+der Schaden auch bei Beachtung dieser Sorgfalt entstanden wäre.
+Sanktionen
+3. Physik
+Foto:  © Rico Fischer
+3. Physik
+Physikalische Grundlagen
+Jeder Körper setzt der Änderung seiner Geschwindigkeit oder seiner Bewegungsrichtung einen Widerstand entgegen. Dieses Verhalten wird als Massenträgheit umschrieben und im Bereich
+der Ladungssicherung als Massenkraft ‚F’ bezeichnet.
+Kräfte werden in der Einheit „Newton“ (N) angegeben.
+Der englische Physiker Isaac Newton (1642-1727) erkannte, dass ein Körper das Bestreben hat, seinen momentanen Zustand beizubehalten.
+Quelle: (c) Sonnia Menke  Chart & Design
+3. Physik
+Physikalische Grundlagen
+Beispiel
+Foto: © Rico Fischer
+Bremst der Fahrer sein Fahrzeug ab, ist das Ladegut (egal wie schwer) immer bestrebt sich mit der vorherigen Geschwindigkeit und Bewegungsrichtung weiterzuverschieben, wenn es nicht gesichert ist.
+3. Physik
+Auftretende Kräfte im Straßenverkehr
+Verzögerungskräfte
+Bei Bremsvorgängen wirken Massenkräfte bis zu 0,8 x FG nach vorn.
+Abbildung: © Sonnia Menke Chart & Design
+3. Physik
+Auftretende Kräfte im Straßenverkehr
+Entgegen der Fahrtrichtung treten Massenkräfte der Ladung bis zu 0,5 x FG auf.
+Beschleunigungskräfte
+Abbildung: © Sonnia Menke Chart & Design
+3. Physik
+Auftretende Kräfte im Straßenverkehr
+Fliehkräfte
+Bei Kurvenfahrten wirken seitliche Massenkräfte bis zu 0,5 x FG.
+Abbildung: © Sonnia Menke Chart & Design
+µD = Gleitreibbeiwert
+FR = µD x FG
+Mikro-
+verzahnung
+3. Physik
+FG = m x g
+g = 9,81 m/s² ~ 10 m/s²
+ZUR ERINNERUNG
+(g = Erdbeschleunigung)
+Abbildung: © Verlag Heinrich Vogel
+Reibung
+3. Physik
+Reibung
+Im Zusammenhang mit der Ladung werden zwei Reibungsarten unterschieden, die Haft- und die Gleitreibung.
+Befindet sich die Ladung bereits in Bewegung, bedarf es einer wesentlich geringeren Kraft, um die Ladung in Bewegung zu halten. Bei dieser Widerstandskraft handelt es sich um die Gleitreibung.
+Zieht man eine Ladung über eine Fläche, muss man eine große Kraft aufbringen, um die Ladung in Bewegung zu setzen. Die Widerstandskraft, die es zu überwinden gilt, ist die so genannte Haftreibung.
+3. Physik
+Reibung
+Oft hört man den Spruch: Die Ladung ist so schwer, die kann gar nicht verrutschen!
+Dieser Eindruck entsteht relativ leicht, z.B. bei der Beladung mittels Ladekran.
+Schnell kann man hier dem Irrglauben erliegen, dass
+schwere Ladung besser hält als leichte, da diese ja nur von einem Kran bewegt werden kann.
+Foto: © MAN Truck & Bus AG
+3. Physik
+Reibung
+Schauen Sie sich das Beispiel mit unterschiedlich schweren Ladungsteilen an!
+Was stellen Sie fest?
+Ladungsteil  1
+Ladungteil  2
+Ladungsmasse
+1.000kg
+10.000kg
+Massenkraft in Fahrtrichtung
+800 daN
+8.000 daN
+Sichernde Reibungskraft µ=0,2
+200 daN
+2.000 daN
+Durch die Reibung gesicherte Massenkraft
+¼
+¼
+Fazit:
+Da bei beiden nur ¼ der Massenkraft durch die Reibung gesichert ist, beginnen auch beide annähernd im selben Moment zu rutschen.
+Die Masse ist somit nicht entscheidend, ob sich eine Ladung bewegt oder nicht!
+3. Physik
+Reibung
+Quelle: BG Verkehr
+Ladungsträger/Ladegut
+Ladefläche
+Sperrholz,
+melaminharz-beschichtet,
+glatte Oberfläche
+Sperrholz,
+melaminharz-beschichtet,
+Siebstruktur
+Aluminiumträger
+in der
+Ladefläche – Lochschienen
+Europaletten
+(Holz)
+0,20
+0,25
+0,25
+Gitterboxpaletten
+(Stahl)
+0,25
+0,25
+0,35
+Kunststoff-paletten (PP)
+0,20
+0,25
+0,25
+Empfehlungen aus dem Forschungsprojekt der BG Verkehr
+„Bestimmung der Reibungszahl μ an Ladegütern“
+3. Physik
+Reibung
+Durch rutschhemmende Materialien lassen sich unter bestimmten Umständen deutlich bessere Reibwerte erzielen.
+Man setzt die sog. „Antirutschmatten“ zwischen Ladung und Ladefläche sowie auch zwischen Ladungsteilen ein.
+Foto: © SpanSet
+Foto: © BG Verkehr
+3. Physik
+Reibung
+Eine besenreine Ladefläche ist Grundvoraussetzung für eine ordnungsgemäße Ladungssicherung.
+Deshalb  sollte ein Besen zur
+Standardausrüstung eines jeden Fahrzeugs gehören!
+Antirutschmatten können nur ihren Zweck erfüllen, wenn die Ladefläche nicht durch Rückstände wie z.B. Sand, Granulatresten verunreinigt ist.
+Foto:  ©  Verlag Heinrich Vogel
+3. Physik
+Reibung
+Achten Sie gerade bei Euro-Paletten darauf, dass auch die mittleren Auflagenpunkte auf einer Antirutschmatte stehen.
+Vergessen Sie auch die Zwischenlagen bei gestapelten Ladegütern / Ladeeinheiten nicht!
+Verwenden Sie die Antirutschmatten möglichst streifenweise und nicht nur punktuell.
+Foto:  ©  Rico Fischer
+3. Physik
+Einflüsse durch die Fahrweise
+Eine angepasste Fahrweise minimiert auftretende Kräfte und Verschleiß, sie ist immer ein Sicherheitsgewinn. Kommt man jedoch in eine Gefahrensituation kann auch die beste Fahrweise keine Ladungssicherung ersetzen!
+Fahrweise und Verhalten des Fahrzeugs sind eng mit einander verbunden.
+Abruptes Bremsen oder hektische Lenkbewegungen werden auch auf die Ladung übertragen.
+Foto:  ©  Volvo Trucks
+3. Physik
+Einflüsse durch die Fahrweise
+Der § 44 Absatz 3 der UVV „Fahrzeuge“ fordert, dass der Fahrzeugführer die Fahrweise so einrichtet, dass er das Fahrzeug sicher beherrscht. Insbesondere muss er die Fahrbahn-, Verkehrs-, Sicht- und Witterungsverhältnisse, die Fahreigenschaften des Fahrzeugs sowie Einflüsse durch die Ladung berücksichtigen.
+Der § 3 der StVO „Geschwindigkeit“ spricht von einem „Anpassen der Fahrgeschwindigkeit an die Eigenschaften von Fahrzeug und
+Ladung durch den Fahrzeugführer.“
+Pflichten des Fahrzeugführers
+4. Abmessungen, Nutzvolumen
+und Lastverteilung
+Abbildung: © Sonnia Menke Chart & Design
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Abmessungen
+Die Abmessungen von Fahrzeugen und Zugkombinationen zählen zum Grundwissen eines jeden Kraftfahrers.
+Die einfachste und sicherste Variante ist es, die Länge und Höhe einer neuen Kombination kurz nachzumessen. Zusätzlich zum evtl. Ärger in einer Kontrolle, können so auch Unsicherheiten bei beschränkenden Verkehrszeichen vermieden werden.
+Foto:  ©  Rico Fischer
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Abmessungen
+Was
+Vorgaben
+Sattelzug
+Länge
+max. 15,50m
+max. 16,50m Voraussetzung:
+Entfernung Zugsattelzapfen bis hintere Begrenzung max. 12 m
+Vorderer Überhangradius max. 2,04 m
+Anhängerzug
+Länge
+max. 18,00m
+max. 18,75m Anhänger zur Güterbeförderung Voraussetzung:
+Abstand vorderster Punkt der Ladefläche am Lkw bis hinterster Punkt der Ladefläche des Anhängers ist max. 16,40m
+Abzüglich des Abstandes zwischen Lkw und Anhänger max. 15,65m
+Fahrzeug und Ladung
+Höhe
+max. 4m
+Breite
+max. 2,55m (ausgenommen Kühlfahrzeuge, Fahrzeuge in Land- u. Forstwirtschaft)
+Länge
+Fahrzeug und Zug samt Ladung darf nicht länger als 20,75m sein
+Überstehende Ladung
+Nach vorn
+Bis auf eine Höhe von 2,50m verboten
+Ab einer Höhe von 2,50m sind max. 0,5m erlaubt
+Nach hinten
+max. 3m bis zu einer Entfernung von 100km
+Ansonsten max. 1,5 m
+Kenntlich machen überstehender Ladung
+Nach hinten
+Wenn diese 1m über die Rückstrahler des Fahrzeugs ragt
+Übersicht wichtiger Fahrzeugabmessungen
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Foto:  ©  Paul Fearn-Fotolia
+Nutzvolumen - Rechteckiger Aufbau
+Das Volumen ‚V’ steht für den räumlichen Inhalt eines Körpers.
+Am einfachsten ist das Volumen zu errechnen, wenn die Abmessungen des Körpers bekannt sind und miteinander multipliziert werden (siehe Formel).
+L = Länge
+B = Breite
+H = Höhe
+V = L x B x H
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Foto: ©  Mixage-Fotolia
+Nutzvolumen - Zylindrischer oder halbrunder Aufbau
+Beim zylindrischen oder halbrunden Aufbau ist die Rechnung etwas
+aufwendiger. Zur Ermittlung des Volumens werden folgende Werte
+benötigt:
+V = r² x π x L
+L = Länge
+r = Radius
+π = gerundete Konstante  von 3,14
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Foto:  © Reiner Rosenfeld
+Lastverteilung
+In Lkw-Kontrollen immer wieder ein Thema ist die Überladung einzelner Achsen oder gar des ganzen Fahrzeugs. Oft kommt es hierbei auch zur Untersagung der Weiterfahrt.
+Folgen von Überladung
+Erhöhtes Sicherheitsrisiko für alle Verkehrsteilnehmer
+Erhöhter Fahrzeugverschleiß, Kraftstoffverbrauch und Materialermüdung
+Erhöhte Straßenbelastung und -verschleiß
+Zeiteinbußen und zusätzliche Kosten durch ggf. Untersagung der Weiterfahrt sowie durch Umladung auf ein zusätzliches Fahrzeug
+Geldbußen von 80 bis über 400 Euro und zusätzlich 1 Punkt im Verkehrszentralregister für Fahrer und Fahrzeughalter
+0m            1m            2m           3m           4m            5m            6m           7m
+16 t
+14 t
+12 t
+10 t
+8 t
+6 t
+4 t
+2 t
+0 t
+zulässige
+Vorder-Achslast
+zulässige Nutzlast
+(Gesamtgewicht)
+zulässige
+Hinter-Achslast
+Mindest-
+Vorder-Achslast
+(20-35% Fahrzeug-
+Momentangewicht)
+Ladefläche (m)
+Last (t)
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Quelle: Sonnia Menke Chart & Design
+Lastverteilung
+Lastverteilungsplan
+0m                 1m                 2m                 3m                4m                 5m                 6m                 7m                8m
+8 t
+6 t
+4 t
+2 t
+0 t
+10 t
+Lastverteilungsplan
+Lastverteilung
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Quelle: Sonnia Menke Chart & Design
+Lastverteilungsplan für einen 3-Achs-Anhänger
+0m            1m            2m           3m           4m            5m            6m           7m            8m
+8 t
+6 t
+4 t
+2 t
+0 t
+10 t
+Lastverteilungsplan
+Lastverteilung
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Quelle: Sonnia Menke Chart & Design
+Lastverteilungsplan für einen Starrdeichsel-Anhänger
+0m                 1m                 2m                 3m                4m                 5m                 6m                 7m                8m
+18 t
+12 t
+10 t
+2 t
+0 t
+20 t
+16 t
+14 t
+8 t
+6 t
+4 t
+Lastverteilungsplan
+Lastverteilung
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Quelle: Sonnia Menke Chart & Design
+Lastverteilungsplan für einen Sattel-Anhänger
+0m            1m            2m           3m           4m            5m            6m           7m
+16 t
+14 t
+12 t
+10 t
+8 t
+6 t
+4 t
+2 t
+0 t
+Ladefläche (m)
+Last (t)
+10 t
+Lastverteilung
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Quelle: Sonnia Menke Chart & Design
+Lastverteilungsplan für einen 3-Achser
+Foto: © MAN Truck & Bus AG
+Lastverteilung
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Eine Hilfe ist die Anzeige der tatsächlichen Achslasten über das Fahrerinformationsdisplay.
+Die Anzeige ersetzt zwar keinen Lastverteilungsplan, jedoch kann man mit
+ihr die sonst nur schwer nachvollziehbaren Achslasten vor Fahrtbeginn prüfen.
+Lastverteilung
+Foto:  © BG Verkehr
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Bestimmung des Schwerpunkts bei Einzelladung
+FG1 x L1 + FG2 x L2 + FG3 x L3 + FG4 x L4
+FG1 + FG2 + FG3 + FG4
+SGes=
+FG4
+FG3
+FG2
+FG1
+L1
+L2
+L3
+L4
+Lastverteilung
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Quelle: © Sonnia Menke Chart & Design
+Bestimmung des Schwerpunkts bei mehrteiliger Ladung
+0m              1m             2m             3m             4m             5m             6m             7m
+16 t
+14 t
+12 t
+10 t
+8 t
+6 t
+4 t
+2 t
+0 t
+SGes
+Lastverteilung
+4. Abmessungen, Nutzvolumen und Lastverteilung
+Quelle: © Sonnia Menke Chart & Design
+Bestimmung des Schwerpunkts bei mehrteiliger Ladung
+5. Arten von Ladegütern
+Cartoon: © J. Thamer
+5. Arten von Ladegütern
+Verpackungen und Ladeeinheiten
+Flieh- und Beschleunigungskräfte durch Bremsen, Anfahren und Kurvenfahrten
+Kräfte durch Fahrbahnunebenheiten
+Zug- und Druckkräfte der Ladungssicherung
+Stapeldruck bei gestapelter Ladung
+Folgende Kräfte müssen bei der Transportverpackung berücksichtigt werden:
+Verantwortlich für die Wahl einer geeigneten Transportverpackung ist der Absender (§ 411 HGB).
+Quelle: © BG Verkehr
+5. Arten von Ladegütern
+Verpackungen und Ladeeinheiten
+Die Abläufe zwischen Absender, Verlader, Frachtführer und Fahrer müssen abgestimmt sein.
+Alle Beteiligten müssen ihre Rechte und Pflichten kennen und diesen nachkommen
+Ein entsprechender Informationsaustausch ist dringend notwendig
+Der Absender muss wissen, wie seine Sendung transportiert werden muss und welche Sicherungsmaßnahmen nötig sind
+Der Verlader muss im Vorfeld die entsprechenden Informationen über Art der Ladegüter erhalten
+Der Beförderer (sprich Fahrzeugführer) muss wissen, was ihn an der Laderampe erwartet
+Die Vielfalt der Ladungen und die damit verbundenen verschiedenartigen Herausforderungen sind kaum überschaubar.
+5. Arten von Ladegütern
+Foto: © BG Verkehr
+Gütergruppen
+Ladung, die sich relativ schnell und einfach sichern lasst.
+In der Praxis sind die verschiedensten Varianten verpackter und unverpackter Ladegüter auf den Lkw unterwegs. Manche lassen sich relativ einfach sichern, andere schwieriger.
+5. Arten von Ladegütern
+Gütergruppen
+Ladung, die sich nur aufwendig sichern lässt.
+Foto: © BG Verkehr
+Viele Güter lassen sich nur auf speziellen Fahrzeugen ausreichend sichern.
+Solche Fahrzeuge schaffen oft erst die Möglichkeit der Ladungssicherung unter wirtschaftlich vertretbaren Bedingungen.
+5. Arten von Ladegütern
+Gütergruppen
+„Schräglader“
+Foto: © BG Verkehr
+In vielen Fällen existieren auch vor Ort entsprechende Verladeanweisungen, welche die richtige Vorgehensweise bei der Sicherung des jeweiligen Ladeguts beschreiben.
+5. Arten von Ladegütern
+Gütergruppen
+Spezialfahrzeug für
+Stahltransporte.
+Foto: © BG Verkehr
+Ganz anders sieht es bei Sammelladungen aus. Hier treffen aufwändig zu sichernde, schwere Ladungsteile auf empfindliche Kartonagen oder Gefahrgut.
+Häufiges Nachsichern bei Sammel- und Verteilerverkehren trägt dazu bei, dass standardisierte Lösungen nicht weiterhelfen und der Fahrer als kreativer „LaSi-Künstler“ gefragt ist.
+Das Problem
+5. Arten von Ladegütern
+Cartoon:  © J. Thamer
+Gütergruppen
+5. Arten von Ladegütern
+Gütergruppen
+Zur Zusammenstellung von Ladeeinheiten wird kleineres Sammelgut oft palettenweise mit Folie gewickelt/verbunden. Auch hier werden (meist schon bei der Zusammenstellung) Fehler gemacht.
+Falsche Folienvorspannung (Reckung)
+Zu wenige Wicklungen oder falsche Wickelmethoden
+Der Ladungsträger (Palette) wird nicht oder nur teilweise umwickelt
+Folie mit falscher Seite verwendet
+Belastung der umwickelten Ladeeinheiten wird nicht beachtet
+Falsches Sicherungsmittel bzw. falsche Verteilung der Sicherungskräfte an der Ladeeinheit
+Häufige Fehler bei Ladeeinheiten mit Folienwicklung:
+Ladeeinheiten durch Folienwicklung
+5. Arten von Ladegütern
+Gütergruppen
+Eine andere Möglichkeit zur Bildung von Ladeeinheiten ist die Umreifung. Zusätzlich zum verwendeten Bandmaterial (wie z.B. Stoff, Kunststoff, Stahl) sind hier auch:
+die Anzahl der Bänder,
+das Verschlussgerät/der Verschluss sowie
+die Verbindung mit dem Ladungsträger ausschlaggebend.
+Ladeeinheiten durch Umreifung
+Prüfen Sie Ladeeinheiten auf sichtbare Mängel und lassen Sie diese im Zweifelsfall vor der Verladung nachbessern.
+Als kurzfristige Behelfslösung kann oft auch eine zusätzliche Umreifung mittels Spanngurt dienen.
+Foto: © darknightsky-Fotolia
+Welcher Fehler wurde bei dieser Folienwicklung gemacht?
+5. Arten von Ladegütern
+Aufgabe
+Foto: © Marcin Balcerzak-Shutterstock
+Der Ladungsträger (die Palette) wurde nicht bzw. nur teilweise umwickelt.
+Wer hat nicht schon das prasselnde Geräusch auf der Windschutzscheibe seines Fahrzeugs vernommen, wenn er hinter einem mit Sand beladenen Lkw hergefahren ist?
+Ist eine Ladungssicherung auch bei Schüttgütern erforderlich und welche Maßnahmen sind zu treffen?
+Leichtes Schüttgut kann weggeweht werden. Auch Schüttgut muss also gesichert werden.
+Bei kurzen Strecken kann ein Besprühen
+mit Wasser ausreichend sein.
+In den meisten Fällen ist das Abdecken
+durch Deckel, Planen oder Netze erforderlich!
+5. Arten von Ladegütern
+Foto: © F. Rex
+Gütergruppen
+Welche Fehler können Sie bei diesem Schüttguttransport feststellen?
+5. Arten von Ladegütern
+Aufgabe
+Foto: © Skaljac-Shutterstock
+Es wurde zu viel Schüttgut geladen bzw. nicht in der Kippmulde verteilt.
+Das sandige Schüttgut wurde nicht abgedeckt.
+5. Arten von Ladegütern
+Gütergruppen
+Zunehmend werden kleinere Mengen Schüttgüter in sogenannten „Big Bags“ transportiert.
+Big Bags sollten möglichst formschlüssig beladen werden.
+Mit Zurrplanen, Zurrnetzen oder speziellen Sicherungssystemen können die zusätzlichen Sicherungskräfte flächig verteilt werden.
+Foto: © Dolezych GmbH & Co.KG
+6. Sicherungsarten
+Foto: © Dolezych GmbH & Co.KG
+Formschluss durch Nutzung von Aufbauteilen
+Vorteile
+Leichte Bestimmung der erforderlichen Sicherungskräfte
+Oft ohne zusätzliche Hilfsmittel nutzbar
+Wirtschaftliche Methode (Aufwand und Zeit)
+6. Sicherungsarten
+Quelle: ©  Verlag Heinrich Vogel
+Sicherung der Ladung durch Formschluss
+max. 3100 daN
+0,4 x Nutzlast
+0,25 x Nutzlast
+max. 5000 daN
+6. Sicherungsarten
+Quelle: © Sonnia Menke Chart & Design
+Formschluss durch Nutzung von Aufbauteilen
+Standardaufbau „Code L“ - Stirnwände
+0,30 x Nutzlast
+6. Sicherungsarten
+Formschluss durch Nutzung von Aufbauteilen
+Quelle: © Sonnia Menke Chart & Design
+Standardaufbau „Code L“ - Seitenwände
+0,06 x Nutzlast
+0,24 x Nutzlast
+a
+b
+0,30 x Nutzlast
+6. Sicherungsarten
+Formschluss durch Nutzung von Aufbauteilen
+Quelle: © Sonnia Menke Chart & Design
+Standardaufbau „Code L“ ­ Plane-Spriegel-Aufbau
+Gurtband
+0,30 x Nutzlast
+Achtung!
+Eine Seitenplane allein stellt keine Ladungssicherung dar.
+Beachten Sie die Herstellerangaben!
+6. Sicherungsarten
+Formschluss durch Nutzung von Aufbauteilen
+Quelle: © Sonnia Menke Chart & Design
+Seitliche Schiebeplane - Curtainsider
+0,30 x Nutzlast
+6. Sicherungsarten
+Formschluss durch Nutzung von Aufbauteilen
+Quelle: © Sonnia Menke Chart & Design
+Pritsche mit Bordwänden
+6. Sicherungsarten
+Formschluss durch Nutzung von Aufbauteilen
+Der Code XL der DIN EN 12642 stellt bei der Prüfung höhere Anforderungen an Stirn- und Seitenwände. Aber auch hier muss der Hersteller angeben, welche Ladungssicherungskräfte eingeleitet werden dürfen.
+Erst wenn ein aufbauseitiger Formschluss nicht möglich oder nicht ausreichend ist, muss auf weitere Sicherungsmaßnahmen (z.B. Verzurren) zurückgegriffen werden.
+Sind die Festigkeiten bekannt und für das Ladegut ausreichend, gilt:
+Standardaufbauten nach Code XL
+Standardaufbauten nach Code XL
+6. Sicherungsarten
+Formschluss durch Nutzung von Aufbauteilen
+Zum Nachweis der Sicherungskräfte des Fahrzeugaufbaus werden oft Herstellerbescheinigungen, Gutachten oder Zertifikate verwendet.
+Achtung!
+In diesen finden sich auch vorgeschriebene Bedingungen wie z.B.
+Art des Ladegutes
+Zugrunde gelegte Reibungsverhältnisse
+Formschlüssiges Laden
+Anzahl von Einsteckbrettern und Rungen
+Standardaufbauten nach Code XL
+Quelle: © Fliegl Fahrzeugbau GmbH
+6. Sicherungsarten
+Formschluss durch Nutzung von Aufbauteilen
+Beachten Sie, dass die Bescheinigungen nur gelten können, wenn alle Vorgaben eingehalten werden!
+Um längere Wartezeiten bei einer Kontrolle zu vermeiden, sollte ein Original oder zumindest eine gut lesbare Kopie im Fahrzeug mitgeführt werden.
+α
+α
+6. Sicherungsarten
+Direktzurren (Schräg- und Diagonalzurren)
+Quelle: © Sonnia Menke Chart & Design
+β
+α
+6. Sicherungsarten
+Direktzurren (Schräg- und Diagonalzurren)
+Quelle: © Sonnia Menke Chart & Design
+β
+α
+6. Sicherungsarten
+Direktzurren (Schräg- und Diagonalzurren)
+Quelle: © Sonnia Menke Chart & Design
+β
+α
+6. Sicherungsarten
+Direktzurren (Schräg- und Diagonalzurren)
+Quelle: © Sonnia Menke Chart & Design
+6. Sicherungsarten
+Direktzurren (Schräg- und Diagonalzurren)
+Schräg- und Diagonalzurren unterscheiden sich nur wenig in ihrer Qualität, sind aber im Verhältnis Aufwand zu Nutzen wesentlich wirkungsvoller als das Niederzurren.
+Beide Verfahren gibt es sowohl als einzelne Maßnahme als auch in Kombination mit anderen Sicherungsverfahren.
+Foto: © Dolezych GmbH & Co.KG
+6. Sicherungsarten
+Direktzurren (Schräg- und Diagonalzurren)
+Zurrmittel werden beim Schräg- und Diagonalzurren nur leicht vorgespannt.
+Beim Schräg- und Diagonalzurren gibt es ebenso Berechnungshilfen wie beim Niederzurren.
+Foto: © F. Rex
+Die höchste Belastung der Gurte bestimmt der LC-Wert (Lashing Capacity).
+Niederzurren von Ladegütern
+FR = µD x (FG + FNz)
+Erhöhung der Reibungskraft durch zusätzlichen Druck auf das Ladegut.
+FNz
+FG
+6. Sicherungsarten
+Niederzurren
+Quelle: ©  BG Verkehr/Sonnia Menke Chart & Design
+6. Sicherungsarten
+Niederzurren
+Es gibt verschiedene Möglichkeiten, um die notwendigen Sicherungskräfte zu bestimmen.
+Foto: © BG Verkehr
+Hilfsmittel (wie z.B. Computerprogramme, Schablonen oder Rechenschieber) können schnell und unkompliziert einen Überblick über die nötigen Vorspannkräfte und die erforderliche Anzahl der Zurrmittel geben.
+6. Sicherungsarten
+Niederzurren
+Beim Niederzurren sollte beachtet werden:
+Freistehende Ladegüter müssen mit mindestens zwei Zurrmitteln gesichert werden.
+Die Zurrkraft LC ist nicht maßgeblich, sondern die „normale Spannkraft“ STF.
+Je steiler der Vertikalwinkel α desto besser das Ergebnis, da die Niederzurrkraft FNZ bei steilem Winkel größer und somit wirkungsvoller ist.
+Das Niederzurren eignet sich aufgrund seines geringen Wirkungsgrads oft nur bei gleichzeitigem Einsatz von reibwerterhöhenden Materialien.
+Der Einfluss des Vertikalwinkels
+Kleiner Winkel = geringe Druckkraft  FNz
+α
+α
+FNz
+FG
+FNz
+FG
+7. Verwendung und Überprüfung von Haltevorrichtungen
+Ergebnis
+Niederzurren
+Quelle: ©  BG Verkehr/Sonnia Menke Chart & Design
+6. Sicherungsarten
+Niederzurren
+Beispiele zum Einfluss von Vertikalwinkel und Reibung beim Niederzurren
+Reibbei-wert μ
+Masse
+der
+Ladung
+(in kg)
+Mindestvorspannkraft in Fahrtrichtung bei unterschiedlichen Zurrwinkeln in daN
+(Mindestanzahl von Zurrmitteln
+bei STF = 400 daN)
+30°
+60°
+90°
+0,2
+1.000
+0,2
+5.000
+0,6
+1.000
+0,6
+5.000
+3.923 (10)
+2.265 (6)
+1.961 (5)
+19.613 (50)
+11.324 (29)
+9.807 (25)
+436 (2)
+252 (2)
+219 (2)
+1.259 (4)
+1.259 (4)
+1.091 (3)
+Welche Sicherungsverfahren wurden hier kombiniert?
+6. Sicherungsarten
+Aufgabe
+Foto: © Rico Fischer
+Formschluss - durch einen Ladebalken nach vorn
+Kraftschluss - durch Niederzurren
+7. Verwendung und Überprüfung
+von Haltevorrichtungen
+Foto: © Dolezych GmbH & Co.KG
+Ein zweiteiliger Zurrgurt besteht aus:
+Ein zweiteiliger Zurrgurt kann sowohl im geraden Zug (beim Direktzurren) als auch in der Umreifung (beim Niederzurren) eingesetzt werden!
+Verbindungselement
+Verbindungselement
+Festende: 0,3 oder 0,5 m
+Spannmittel
+Langhebel-Zug-Ratsche
+Standard-Druck-Ratsche
+Losende: 7,7 oder 7,5 m
+Zurrgurte
+Gurtband
+Spannelement
+7. Verwendung und Überprüfung von Haltevorrichtungen
+Foto: © Schlobohm
+Zurrgurte
+-	Dehnung des Gurtbandes in % bei LC
+-	Herstellungsjahr
+-	Nummer und Teil dieser Europäischen Norm: EN 12195-2
+Rückverfolgbarkeitscode des Herstellers
+Name oder Symbol des Herstellers oder Lieferers
+Werkstoff des Gurtbandes
+Längen LG, LGF und LGL
+in m
+-	Warnhinweis „Darf nicht zum Heben verwendet werden!“
+LC (Lashing Capacity) = die maximale Kraft im direkten Zug in daN
+STF (Standard Tension Force) = normale (Vor-)Spannkraft in daN, für die die Ausrüstung Typ geprüft wurde
+SHF (Standard Hand Force) = Normale Handkraft in daN
+7. Verwendung und Überprüfung von Haltevorrichtungen
+Foto: © Dolezych GmbH & Co.KG
